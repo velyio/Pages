@@ -1,6 +1,6 @@
 # Angel Cortez: User Page
 ### *Computer Science Student* at UC San Diego.
-### ** Class of 2027**
+### **Class of 2027**
 
 ###### As a programmer, my goal is to solve *real-world problems* and apply  computer science principles to create an impact on my community and environment.
 
